@@ -1,2 +1,3 @@
 # Algoritmos_Python
-Repositório majoritariamente usado para a disciplina de Análise e Técnica de Algoritmos
+- Repositório usado para aprendizado e prática
+- Resolução de algumas questões de sites como Codeforces
